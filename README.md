@@ -21,3 +21,4 @@ For hackers, pentesters, system administrators, programmers.
 - xv6: a simple, Unix-like teaching operating system (Russ Cox, Frans Kaashoek, Robert Morris, 2012)
 - Writing a Simple Operating System — from Scratch (Nick Blundell, 2010)
 - Windows NT Alerts Design Note (David N. Cutler, 1989)
+- Windows Kernel Internals Traps, Interrupts, Exceptions (David B. Probert, Ph.D.)
