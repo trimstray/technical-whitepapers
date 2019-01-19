@@ -20,3 +20,4 @@ For hackers, pentesters, system administrators, programmers.
 - Performance Analysis Superpowers with Linux eBPF (Brendan Gregg, 2015)
 - xv6: a simple, Unix-like teaching operating system (Russ Cox, Frans Kaashoek, Robert Morris, 2012)
 - Writing a Simple Operating System — from Scratch (Nick Blundell, 2010)
+- Windows NT Alerts Design Note (David N. Cutler, 1989)
