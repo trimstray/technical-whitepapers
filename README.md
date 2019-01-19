@@ -35,3 +35,4 @@ For hackers, pentesters, system administrators, programmers.
 - Windows Kernel Internals — Object Manager (David B. Probert, Ph.D.)
 - Windows Kernel Internals — Overview (David B. Probert, Ph.D.)
 - Windows Kernel Internals — Synchronization Mechanisms (David B. Probert, Ph.D.)
+- WinDbg. From A to Z! (Robert Kuster, 2007)
