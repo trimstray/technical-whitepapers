@@ -48,3 +48,4 @@ For hackers, pentesters, system administrators, programmers.
 - The UNIX Time-Sharing System (Dennis M. Ritchie and Ken Thompson, 1974)
 - The Linux Scheduler: a Decade of Wasted Cores (2016)
 - The Linux Kernel Hidden Inside Windows 10 (Ales Ionescu, 2016)
+- The AWK Programming Language (Alfred V. Aho, Brian W. Kernighan, Peter J. Weinberg, 1988)
