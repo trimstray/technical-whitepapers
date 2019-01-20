@@ -2,6 +2,11 @@
 
 For hackers, pentesters, system administrators, programmers.
 
+#### Structure
+
+- `base` - only english version
+- `pl` - only polish version
+
 #### `base` directory
 
 - BPF: Tracing and More (Brendan Gregg, 2017)
