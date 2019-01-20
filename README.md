@@ -51,3 +51,4 @@ For hackers, pentesters, system administrators, programmers.
 - The AWK Programming Language (Alfred V. Aho, Brian W. Kernighan, Peter J. Weinberg, 1988)
 - TCP Fast Open (Sivasankar Radhakrishnan, Yuchung Cheng, Jerry Chu, Arvind Jain, Barath Raghavan)
 - Speeding up Networking (Van Jacobson, Bob Felderman, 2006)
+- Reverse Engineering for Beginners (Dennis Yurichev, 2013)
