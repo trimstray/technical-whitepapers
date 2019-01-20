@@ -2,7 +2,7 @@
 
 For hackers, pentesters, system administrators, programmers.
 
-- `base` - only english version (_147MB_)
+- `base` - only english version (_177MB_)
 - `pl` - only polish version (_45MB_)
 
 #### `base` directory
@@ -67,6 +67,9 @@ For hackers, pentesters, system administrators, programmers.
 - Manipulating Microsoft SQL Server Using SQL Injection (Cesar Cerrudo)
 - PE File Infection Techniques (Konstantin Rozinov)
 - SysAdmin Magazine: Tools & Tips for Security Admins (2016)
+- PostgreSQL Portland Performance Practice Project (Mark Wong, 2009)
+- Linux Security and the Chromium Sandbox (Pati Gallardo, 2018)
+- Linux Security Review (2015)
 
 #### `pl` directory
 
