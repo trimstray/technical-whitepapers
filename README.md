@@ -66,3 +66,25 @@ For hackers, pentesters, system administrators, programmers.
 - Decimalisation Table Attacks for PIN Cracking (Mike Bond, Piotr Zieliński)
 - Manipulating Microsoft SQL Server Using SQL Injection (Cesar Cerrudo)
 - PE File Infection Techniques (Konstantin Rozinov)
+
+#### `pl` directory
+
+- Niebezpieczne Google – wyszukiwanie poufnych informacji (Michał Piotrowski)
+- Hakowanie aplikacji Rootkity i Ptrace (Stefan Klaas)
+- Karty elektroniczne w PKI – znane ataki i sposoby przeciwdziałania im (Adam Augustyn, 2005)
+- Metody włamań do systemów komputerowych SQL injection (Bogusław Kluge, Karina Łuksza, Ewa M akosa)
+- Ochrona aplikacji i ważnych danych użytkownika poprzez stosowanie technik kodowania defensywnego (Kenny Kerr)
+- Obrona przed atakami typu odmowa usługi (DoS) (Marcin Żurakowski, 2004)
+- Obrona przed Fingerprinting warstwy aplikacji - tutorial
+- Praktyczna aplikacja do analizy Malware (Rubén Santamarta)
+- Prywatne wojny w sieci: poddaj się, okop, negocjuj lub stań do walki
+- Reverse engineering – analiza dynamiczna kodu wykonywalnego ELF (Marek Janiczek)
+- Robaki sieciowe
+- Rodzaje wirusów komputerowych (Bartłomiej Rudzki, Piotr Modzelewski)
+- Ewolucja Kodów Powłoki (Itzik Kotler)
+- Struktury systemów operacyjnych
+- Tryb chroniony mikroprocesorów x86 (Andrzej Stasiak)
+- Tworzenie polimorficznego szelkodu (Michał Piotrowski)
+- Wirusy
+- Własny rootkit w GNU/Linuksie (Mariusz Burdach)
+- Szperając w nagłówkach, czyli wstęp do reverse engineeringu (Wojciech Warpechowski, 2005)
