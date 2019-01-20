@@ -2,8 +2,8 @@
 
 For hackers, pentesters, system administrators, programmers.
 
-- `base` - only english version (_177MB_)
-- `pl` - only polish version (_45MB_)
+- `base` - only english version (_206MB_)
+- `pl` - only polish version (_105MB_)
 
 #### `base` directory
 
@@ -70,6 +70,24 @@ For hackers, pentesters, system administrators, programmers.
 - PostgreSQL Portland Performance Practice Project (Mark Wong, 2009)
 - Linux Security and the Chromium Sandbox (Pati Gallardo, 2018)
 - Linux Security Review (2015)
+- Open source firewall tools Iptables and PF (Elvir Kuric)
+- Docker and High Security Microservices (Aaron Grattafiori, 2016)
+- Linux Hardening (Michael Boelen, 2016)
+- LXC, Docker, Security
+- Linux Systems Compromised (Michael Boelen, 2016)
+- Linux Security for Developers (Michael Boelen, 2016)
+- Hardened kernels for everyone (Yves-Alexis Perez, 2015)
+- Application Security Verification Standard 3.0.1 (2016)
+- OWASP Testing Guide v4 (Matteo Meucci, Andrew Muller)
+- A SysAdmin’s Essential Guide to Linux Workstation Security
+- Checklist for Penetration Testing (Mateus Felipe Tymburibá Ferreira, 2012)
+- SELinux Policy Management Framework for HIS (Luis Franco Marin, 2008)
+- The Return of Robin Hood vs Cisco ASA (Cedric Halbronn, 2018)
+- DDoS Handbook (2015)
+- DDoS Tutorial (Krassimir Tzvetanov)
+- Bypassing Same Origin Policy v1.0 (Simon Egli)
+- Using TCPDump, TCPTrace, & XPlot to Debug Network Problems (Jason Zurawski, 2013)
+- Use "strace" to Understand Your Shell (Harald König, 2015)
 
 #### `pl` directory
 
@@ -93,3 +111,13 @@ For hackers, pentesters, system administrators, programmers.
 - Własny rootkit w GNU/Linuksie (Mariusz Burdach)
 - Szperając w nagłówkach, czyli wstęp do reverse engineeringu (Wojciech Warpechowski, 2005)
 - Podstawy administracji PostgreSQL. DCL — Data Control Language. Użytkownicy, role, uprawnienia, kopie zapasowe. (Antoni Ligęza, Marcin Szpyrka)
+- Gentoo Linux Instrukcja instalacji i konfiguracji systemu
+- Aplikacje webowe na celowniku. (Leszek Miś)
+- Obowiązkowa kontrola dostępu w systemie Linux (Bartosz Brodecki, Piotr Sasak, 2007)
+- Przegląd nowych mechanizmów bezpieczeństwa w RHEL6 (Leszek Miś, 2011)
+- SELinux (Robert Jaroszuk, 2011)
+- Bezpieczeństwo aplikacji WWW (Michał Sajdak, 2015)
+- Bezpieczeństwo aplikacji WWW — Podatności w mechanizmach uploadu (Michał Sajdak, 2016)
+- Bezpieczeństwo aplikacji WWW (Michał Sajdak, 2016)
+- Bezpieczeństwo aplikacji WWW (Michał Sajdak, 2017)
+- IT Security Services (Mateusz Kocielski, 2015)
