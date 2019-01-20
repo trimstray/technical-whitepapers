@@ -44,3 +44,4 @@ For hackers, pentesters, system administrators, programmers.
 - Vim for humans (Vincent Jousse, 2015)
 - Using CUDA in Practice (Klaus Mueller)
 - Unreliable Guide To Hacking The Linux Kernel (Paul Rusty Russell, 2000)
+- Tracing Privileged Memory Accesses to Discover Software Vulnerabilities (Felix Wilhelm, 2015)
