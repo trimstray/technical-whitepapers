@@ -3,7 +3,7 @@
 For hackers, pentesters, system administrators, programmers.
 
 - `base` - only english version (_138MB_)
-- `pl` - only polish version (_49MB_)
+- `pl` - only polish version (_45MB_)
 
 #### `base` directory
 
