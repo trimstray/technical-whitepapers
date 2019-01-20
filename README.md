@@ -38,4 +38,4 @@ For hackers, pentesters, system administrators, programmers.
 - WinDbg. From A to Z! (Robert Kuster, 2007)
 - Why Threads Are A Bad Idea (for most purposes) (John Ousterhout, 1995)
 - When to use splay trees (Eric K. Lee ∗,† and Charles U. Martel, 2007)
-- 
+- What Happens During a Join - Dissecting CPU and Memory Optimization Effects (Stefan Manegold, Peter Boncz, Martin L. Kersten)
