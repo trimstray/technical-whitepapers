@@ -91,16 +91,16 @@ For hackers, pentesters, system administrators, programmers.
 
 #### `pl` directory
 
-- Niebezpieczne Google – wyszukiwanie poufnych informacji (Michał Piotrowski)
+- Niebezpieczne Google — wyszukiwanie poufnych informacji (Michał Piotrowski)
 - Hakowanie aplikacji Rootkity i Ptrace (Stefan Klaas)
-- Karty elektroniczne w PKI – znane ataki i sposoby przeciwdziałania im (Adam Augustyn, 2005)
+- Karty elektroniczne w PKI — znane ataki i sposoby przeciwdziałania im (Adam Augustyn, 2005)
 - Metody włamań do systemów komputerowych SQL injection (Bogusław Kluge, Karina Łuksza, Ewa M akosa)
 - Ochrona aplikacji i ważnych danych użytkownika poprzez stosowanie technik kodowania defensywnego (Kenny Kerr)
 - Obrona przed atakami typu odmowa usługi (DoS) (Marcin Żurakowski, 2004)
-- Obrona przed Fingerprinting warstwy aplikacji - tutorial
+- Obrona przed Fingerprinting warstwy aplikacji — tutorial
 - Praktyczna aplikacja do analizy Malware (Rubén Santamarta)
 - Prywatne wojny w sieci: poddaj się, okop, negocjuj lub stań do walki
-- Reverse engineering – analiza dynamiczna kodu wykonywalnego ELF (Marek Janiczek)
+- Reverse engineering — analiza dynamiczna kodu wykonywalnego ELF (Marek Janiczek)
 - Robaki sieciowe
 - Rodzaje wirusów komputerowych (Bartłomiej Rudzki, Piotr Modzelewski)
 - Ewolucja Kodów Powłoki (Itzik Kotler)
