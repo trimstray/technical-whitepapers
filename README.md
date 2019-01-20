@@ -88,6 +88,7 @@ For hackers, pentesters, system administrators, programmers.
 - Bypassing Same Origin Policy v1.0 (Simon Egli)
 - Using TCPDump, TCPTrace, & XPlot to Debug Network Problems (Jason Zurawski, 2013)
 - Use "strace" to Understand Your Shell (Harald König, 2015)
+- System call tracing overhead (Jörg Zinke, 2009)
 
 #### `pl` directory
 
