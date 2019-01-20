@@ -1,9 +1,9 @@
-# `electronic paper stuff`
+# `technical whitepapers`
 
-For hackers, pentesters, system administrators, programmers.
+For hackers, pentesters, system administrators, programmers, security researchers...
 
-- `base` - only english version (_206MB_)
-- `pl` - only polish version (_105MB_)
+- `base` - only english version (82, _206MB_)
+- `pl` - only polish version (61, _105MB_)
 
 #### `base` directory
 
