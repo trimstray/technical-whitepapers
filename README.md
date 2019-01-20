@@ -52,3 +52,4 @@ For hackers, pentesters, system administrators, programmers.
 - TCP Fast Open (Sivasankar Radhakrishnan, Yuchung Cheng, Jerry Chu, Arvind Jain, Barath Raghavan)
 - Speeding up Networking (Van Jacobson, Bob Felderman, 2006)
 - Reverse Engineering for Beginners (Dennis Yurichev, 2013)
+- DevOps Toolchain (UpGuard)
