@@ -41,3 +41,4 @@ For hackers, pentesters, system administrators, programmers.
 - What Happens During a Join - Dissecting CPU and Memory Optimization Effects (Stefan Manegold, Peter Boncz, Martin L. Kersten)
 - What Every Programmer Should Know About Memory (Ulrich Drepper, 2007)
 - Virtual Threads (Elaine Cheong and Fred Reiss, 2000)
+- Vim for humans (Vincent Jousse, 2015)
