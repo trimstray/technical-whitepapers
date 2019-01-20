@@ -37,4 +37,5 @@ For hackers, pentesters, system administrators, programmers.
 - Windows Kernel Internals — Synchronization Mechanisms (David B. Probert, Ph.D.)
 - WinDbg. From A to Z! (Robert Kuster, 2007)
 - Why Threads Are A Bad Idea (for most purposes) (John Ousterhout, 1995)
+- When to use splay trees (Eric K. Lee ∗,† and Charles U. Martel, 2007)
 - 
