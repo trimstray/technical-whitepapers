@@ -89,3 +89,4 @@ For hackers, pentesters, system administrators, programmers.
 - Wirusy
 - Własny rootkit w GNU/Linuksie (Mariusz Burdach)
 - Szperając w nagłówkach, czyli wstęp do reverse engineeringu (Wojciech Warpechowski, 2005)
+- Podstawy administracji PostgreSQL. DCL — Data Control Language. Użytkownicy, role, uprawnienia, kopie zapasowe. (Antoni Ligęza, Marcin Szpyrka)
