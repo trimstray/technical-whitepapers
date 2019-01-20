@@ -42,3 +42,4 @@ For hackers, pentesters, system administrators, programmers.
 - What Every Programmer Should Know About Memory (Ulrich Drepper, 2007)
 - Virtual Threads (Elaine Cheong and Fred Reiss, 2000)
 - Vim for humans (Vincent Jousse, 2015)
+- Using CUDA in Practice (Klaus Mueller)
