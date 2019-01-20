@@ -2,7 +2,7 @@
 
 For hackers, pentesters, system administrators, programmers, security researchers...
 
-- `base` - only english version (87, _214MB_)
+- `base` - only english version (90, _218MB_)
 - `pl` - only polish version (62, _108MB_)
 
 #### `base` directory
@@ -94,6 +94,9 @@ For hackers, pentesters, system administrators, programmers, security researcher
 - Securing & Hardening Linux v1.0 (Charalambous Glafkos, 2007)
 - Security Configuration Benchmark For Apache (Ryan Barnett, 2008)
 - Introduction to Application Security and OWASP Top 10 Risks (Ralph Durkee)
+- Network Security Hardening Guide v1.2 (2017)
+- Establishing, Implementing and Auditing Linux Operating System Hardening Standard for Security Compliance (Martin Jõgi, 2017)
+- Total security in a PostgreSQL database (Robert Bernier, 2009)
 
 #### `pl` directory
 
