@@ -43,3 +43,4 @@ For hackers, pentesters, system administrators, programmers.
 - Virtual Threads (Elaine Cheong and Fred Reiss, 2000)
 - Vim for humans (Vincent Jousse, 2015)
 - Using CUDA in Practice (Klaus Mueller)
+- Unreliable Guide To Hacking The Linux Kernel (Paul Rusty Russell, 2000)
