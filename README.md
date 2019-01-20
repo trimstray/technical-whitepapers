@@ -46,3 +46,4 @@ For hackers, pentesters, system administrators, programmers.
 - Unreliable Guide To Hacking The Linux Kernel (Paul Rusty Russell, 2000)
 - Tracing Privileged Memory Accesses to Discover Software Vulnerabilities (Felix Wilhelm, 2015)
 - The UNIX Time-Sharing System (Dennis M. Ritchie and Ken Thompson, 1974)
+- The Linux Scheduler: a Decade of Wasted Cores (2016)
