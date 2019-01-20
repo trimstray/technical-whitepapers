@@ -39,3 +39,4 @@ For hackers, pentesters, system administrators, programmers.
 - Why Threads Are A Bad Idea (for most purposes) (John Ousterhout, 1995)
 - When to use splay trees (Eric K. Lee ∗,† and Charles U. Martel, 2007)
 - What Happens During a Join - Dissecting CPU and Memory Optimization Effects (Stefan Manegold, Peter Boncz, Martin L. Kersten)
+- What Every Programmer Should Know About Memory (Ulrich Drepper, 2007)
