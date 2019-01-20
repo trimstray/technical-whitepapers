@@ -2,6 +2,8 @@
 
 For hackers, pentesters, system administrators, programmers.
 
+#### `base` directory
+
 - BPF: Tracing and More (Brendan Gregg, 2017)
 - Container Performance Analysis (Brendan Gregg)
 - From DTrace To Linux (Brendan Gregg, 2014)
@@ -53,3 +55,11 @@ For hackers, pentesters, system administrators, programmers.
 - Speeding up Networking (Van Jacobson, Bob Felderman, 2006)
 - Reverse Engineering for Beginners (Dennis Yurichev, 2013)
 - DevOps Toolchain (UpGuard)
+- Advanced SQL Injection In SQL Server Applications (Chris Anley, 2002)
+- A Unique Examination of the Buffer Overflow Condition (Terry Bruce Gillette, 2002)
+- Blindfolded SQL Injection (Ofer Maor, Amichai Shulman)
+- Blind SQL Injection (Kevin Spett)
+- Buffer overflow vulnerabilities (Peter Buchlovsky, Adam Butcher)
+- Decimalisation Table Attacks for PIN Cracking (Mike Bond, Piotr Zieliński)
+- Manipulating Microsoft SQL Server Using SQL Injection (Cesar Cerrudo)
+- PE File Infection Techniques (Konstantin Rozinov)
