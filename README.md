@@ -2,8 +2,8 @@
 
 For hackers, pentesters, system administrators, programmers, security researchers...
 
-- `base` - only english version (82, _206MB_)
-- `pl` - only polish version (61, _105MB_)
+- `base` - only english version (87, _214MB_)
+- `pl` - only polish version (62, _108MB_)
 
 #### `base` directory
 
@@ -90,6 +90,10 @@ For hackers, pentesters, system administrators, programmers, security researcher
 - Use "strace" to Understand Your Shell (Harald König, 2015)
 - System call tracing overhead (Jörg Zinke, 2009)
 - The Linux Kernel Hackers' Guide (Michael K. Johnson, 1995)
+- Auditing Web Applications (Robert Morella, 2015)
+- Securing & Hardening Linux v1.0 (Charalambous Glafkos, 2007)
+- Security Configuration Benchmark For Apache (Ryan Barnett, 2008)
+- Introduction to Application Security and OWASP Top 10 Risks (Ralph Durkee)
 
 #### `pl` directory
 
@@ -123,3 +127,4 @@ For hackers, pentesters, system administrators, programmers, security researcher
 - Bezpieczeństwo aplikacji WWW (Michał Sajdak, 2016)
 - Bezpieczeństwo aplikacji WWW (Michał Sajdak, 2017)
 - IT Security Services (Mateusz Kocielski, 2015)
+- Administrowanie sieciami lokalnymi i serwerami (Jacek Kobus, 2016)
