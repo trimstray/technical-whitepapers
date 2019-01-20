@@ -89,6 +89,7 @@ For hackers, pentesters, system administrators, programmers, security researcher
 - Using TCPDump, TCPTrace, & XPlot to Debug Network Problems (Jason Zurawski, 2013)
 - Use "strace" to Understand Your Shell (Harald König, 2015)
 - System call tracing overhead (Jörg Zinke, 2009)
+- The Linux Kernel Hackers' Guide (Michael K. Johnson, 1995)
 
 #### `pl` directory
 
