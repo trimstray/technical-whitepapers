@@ -40,3 +40,4 @@ For hackers, pentesters, system administrators, programmers.
 - When to use splay trees (Eric K. Lee ∗,† and Charles U. Martel, 2007)
 - What Happens During a Join - Dissecting CPU and Memory Optimization Effects (Stefan Manegold, Peter Boncz, Martin L. Kersten)
 - What Every Programmer Should Know About Memory (Ulrich Drepper, 2007)
+- Virtual Threads (Elaine Cheong and Fred Reiss, 2000)
