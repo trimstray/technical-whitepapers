@@ -2,7 +2,7 @@
 
 For hackers, pentesters, system administrators, programmers.
 
-- `base` - only english version (_138MB_)
+- `base` - only english version (_147MB_)
 - `pl` - only polish version (_45MB_)
 
 #### `base` directory
@@ -66,6 +66,7 @@ For hackers, pentesters, system administrators, programmers.
 - Decimalisation Table Attacks for PIN Cracking (Mike Bond, Piotr Zieliński)
 - Manipulating Microsoft SQL Server Using SQL Injection (Cesar Cerrudo)
 - PE File Infection Techniques (Konstantin Rozinov)
+- SysAdmin Magazine: Tools & Tips for Security Admins (2016)
 
 #### `pl` directory
 
