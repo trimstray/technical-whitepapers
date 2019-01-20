@@ -50,3 +50,4 @@ For hackers, pentesters, system administrators, programmers.
 - The Linux Kernel Hidden Inside Windows 10 (Ales Ionescu, 2016)
 - The AWK Programming Language (Alfred V. Aho, Brian W. Kernighan, Peter J. Weinberg, 1988)
 - TCP Fast Open (Sivasankar Radhakrishnan, Yuchung Cheng, Jerry Chu, Arvind Jain, Barath Raghavan)
+- Speeding up Networking (Van Jacobson, Bob Felderman, 2006)
