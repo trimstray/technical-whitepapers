@@ -2,10 +2,8 @@
 
 For hackers, pentesters, system administrators, programmers.
 
-#### Structure
-
-- `base` - only english version
-- `pl` - only polish version
+- `base` - only english version (_138MB_)
+- `pl` - only polish version (_49MB_)
 
 #### `base` directory
 
