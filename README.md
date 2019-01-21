@@ -2,8 +2,8 @@
 
 For hackers, pentesters, system administrators, programmers, security researchers...
 
-- `base` - only english version (90, _218MB_)
-- `pl` - only polish version (62, _108MB_)
+- `base` - only english version (90 books, _~223MB_)
+- `pl` - only polish version (62 books, _~112MB_)
 
 #### `base` directory
 
