@@ -5,6 +5,20 @@ For hackers, pentesters, system administrators, programmers, security researcher
 - `base` - only english version (90 books, _~223MB_)
 - `pl` - only polish version (62 books, _~112MB_)
 
+## Clamav report
+
+```bash
+----------- SCAN SUMMARY -----------
+Known viruses: 6784116
+Engine version: 0.100.2
+Scanned directories: 201
+Scanned files: 508
+Infected files: 0
+Data scanned: 1240.22 MB
+Data read: 605.43 MB (ratio 2.05:1)
+Time: 176.584 sec (2 m 56 s)
+```
+
 #### `base` directory
 
 - BPF: Tracing and More (Brendan Gregg, 2017)
